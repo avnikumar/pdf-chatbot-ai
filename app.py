@@ -28,7 +28,8 @@ def load_qa_model():
     return pipeline(
         "question-answering",
         model="bert-large-uncased-whole-word-masking-finetuned-squad",
-        tokenizer="bert-large-uncased-whole-word-masking-finetuned-squad"
+        tokenizer="bert-large-uncased-whole-word-masking-finetuned-squad",
+        framework="pt"
     )
 
 # QA helper
