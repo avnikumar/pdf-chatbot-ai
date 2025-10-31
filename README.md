@@ -135,3 +135,21 @@ Here’s how it looks in action 👇
 ![Streamlit PDF Chatbot](assets/app_preview_2.png)
 
 Type your question about the PDFs — the model finds the most relevant answer instantly!
+
+
+
+💬 Example Questions
+
+Here are some sample questions you can ask after uploading PDFs about Dr. A.P.J. Abdul Kalam:
+
+1. What is the full name of Dr. Kalam?
+
+2. When and where was Dr. Kalam born?
+
+3. When did Dr. kalam become President of India?
+
+4. where did he win the Hoover Medal?
+
+5. who won Hoover Medal?
+
+5. When did he receive the Bharat Ratna award?
