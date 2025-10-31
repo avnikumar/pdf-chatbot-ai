@@ -70,7 +70,7 @@ Place all PDF files inside the `docs/` folder.
 Example:
 ```
 docs/
-├── biography_kalam.pdf
+├── biography_dr.kalam_sir.pdf
 ├── barack_obama.pdf
 ```
 
