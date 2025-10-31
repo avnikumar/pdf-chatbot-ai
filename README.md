@@ -124,3 +124,14 @@ This project is open source under the **MIT License**.
 > then ask:  
 > “What was his major contribution?” or “When and where was he born?”  
 > and get instant answers — powered by BERT.
+
+
+## 🧠 PDF Chatbot Demo
+
+Here’s how it looks in action 👇
+
+![Streamlit PDF Chatbot](assets/app_preview.png)
+![Streamlit PDF Chatbot](assets/app_preview_1.png)
+![Streamlit PDF Chatbot](assets/app_preview_2.png)
+
+Type your question about the PDFs — the model finds the most relevant answer instantly!
