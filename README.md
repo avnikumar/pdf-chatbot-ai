@@ -39,8 +39,8 @@ Make sure you have **Python 3.9+** installed.
 
 ### 1. Clone or copy the project
 ```bash
-git clone <your-repo-url>
-cd PDF-QA-App
+git clone https://github.com/avnikumar/pdf-chatbot-ai.git
+cd pdf-chatbot-ai
 ```
 
 ### 2. Create and activate virtual environment
